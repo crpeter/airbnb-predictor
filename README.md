@@ -30,6 +30,11 @@ To be able to predict the price, weekly-price, and monthly-price of an airbnb ba
 - Airbnb-Seattly.ipynb - jupyter notebook file with all source code and results
 - data/listings.csv - listing data that was used for analysis
 
+## Acknowledgements
+
+- Udacity for making this possible :)
+
+
 ## Crisp-DM
 
 ### Business Understanding
