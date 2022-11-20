@@ -70,3 +70,7 @@ We can see here that the most important factor is still the host acceptance rate
 
 3) Monthly-price -
 We have some new info when looking predicting the monthly price we can see the most important factor is number of people that the rental accomodates (I guess people don’t like to vacation alone after all). For this prediction the review scores for different types of reviews (location, communication, etc.) start to come into play.
+
+
+#### Blog post
+https://medium.com/@peter.cody14/insights-from-airbnb-data-918dbab6a462
